@@ -1,0 +1,210 @@
+[
+  {
+    "id_produto": 1001,
+    "nome_produto": "Manga Tommy",
+    "categoria": "Frutas in Natura",
+    "preco_custo": "R$ 16,37",
+    "peso_kg": 3.2,
+    "perecivel": true,
+    "fornecedor": {
+      "nome": "AgriFruit Ltda",
+      "cnpj": "12.345.678/0001-90",
+      "estado": "CE"
+    }
+  },
+  {
+    "id_produto": 1002,
+    "nome_produto": "Acerola",
+    "categoria": "Frutas in Natura",
+    "preco_custo": "R$ 42,04",
+    "peso_kg": 0.6,
+    "perecivel": true,
+    "fornecedor": {
+      "nome": "AgriFruit Ltda",
+      "cnpj": "12.345.678/0001-90",
+      "estado": "CE"
+    }
+  },
+  {
+    "id_produto": 1003,
+    "nome_produto": "Cajá",
+    "categoria": "Frutas in Natura",
+    "preco_custo": "R$ 42,27",
+    "peso_kg": 3.47,
+    "perecivel": true,
+    "fornecedor": {
+      "nome": "AgriFruit Ltda",
+      "cnpj": "12.345.678/0001-90",
+      "estado": "CE"
+    }
+  },
+  {
+    "id_produto": 1004,
+    "nome_produto": "Goiaba Vermelha",
+    "categoria": "Frutas in Natura",
+    "preco_custo": "R$ 4,45",
+    "peso_kg": 1.57,
+    "perecivel": true,
+    "fornecedor": {
+      "nome": "AgriFruit Ltda",
+      "cnpj": "12.345.678/0001-90",
+      "estado": "CE"
+    }
+  },
+  {
+    "id_produto": 1005,
+    "nome_produto": "Graviola",
+    "categoria": "Frutas in Natura",
+    "preco_custo": "R$ 32,31",
+    "peso_kg": 0.43,
+    "perecivel": true,
+    "fornecedor": {
+      "nome": "AgriFruit Ltda",
+      "cnpj": "12.345.678/0001-90",
+      "estado": "CE"
+    }
+  },
+  {
+    "id_produto": 1006,
+    "nome_produto": "Polpa de Açaí",
+    "categoria": "Polpas Congeladas",
+    "preco_custo": "R$ 26,82",
+    "peso_kg": 1.79,
+    "perecivel": true,
+    "fornecedor": {
+      "nome": "Polpas do Norte S.A.",
+      "cnpj": "98.765.432/0001-10",
+      "estado": "PE"
+    }
+  },
+  {
+    "id_produto": 1007,
+    "nome_produto": "Polpa de Cupuaçu",
+    "categoria": "Polpas Congeladas",
+    "preco_custo": "R$ 28,51",
+    "peso_kg": 0.32,
+    "perecivel": true,
+    "fornecedor": {
+      "nome": "Polpas do Norte S.A.",
+      "cnpj": "98.765.432/0001-10",
+      "estado": "PE"
+    }
+  },
+  {
+    "id_produto": 1008,
+    "nome_produto": "Polpa de Maracujá",
+    "categoria": "Polpas Congeladas",
+    "preco_custo": "R$ 39,41",
+    "peso_kg": 4.87,
+    "perecivel": true,
+    "fornecedor": {
+      "nome": "Polpas do Norte S.A.",
+      "cnpj": "98.765.432/0001-10",
+      "estado": "PE"
+    }
+  },
+  {
+    "id_produto": 1009,
+    "nome_produto": "Polpa de Caju",
+    "categoria": "Polpas Congeladas",
+    "preco_custo": "R$ 43,65",
+    "peso_kg": 3.77,
+    "perecivel": true,
+    "fornecedor": {
+      "nome": "Polpas do Norte S.A.",
+      "cnpj": "98.765.432/0001-10",
+      "estado": "PE"
+    }
+  },
+  {
+    "id_produto": 1010,
+    "nome_produto": "Polpa de Manga",
+    "categoria": "Polpas Congeladas",
+    "preco_custo": "R$ 7,16",
+    "peso_kg": 3.82,
+    "perecivel": true,
+    "fornecedor": {
+      "nome": "Polpas do Norte S.A.",
+      "cnpj": "98.765.432/0001-10",
+      "estado": "PE"
+    }
+  },
+  {
+    "id_produto": 1011,
+    "nome_produto": "Suco de Laranja",
+    "categoria": "Sucos Concentrados",
+    "preco_custo": "R$ 2,57",
+    "peso_kg": 0.21,
+    "perecivel": false,
+    "fornecedor": {
+      "nome": "NaturSucos ME",
+      "cnpj": "11.222.333/0001-44",
+      "estado": "BA"
+    }
+  },
+  {
+    "id_produto": 1012,
+    "nome_produto": "Suco de Uva Integral",
+    "categoria": "Sucos Concentrados",
+    "preco_custo": "R$ 15,58",
+    "peso_kg": 2.49,
+    "perecivel": false,
+    "fornecedor": {
+      "nome": "NaturSucos ME",
+      "cnpj": "11.222.333/0001-44",
+      "estado": "BA"
+    }
+  },
+  {
+    "id_produto": 1013,
+    "nome_produto": "Suco de Abacaxi",
+    "categoria": "Sucos Concentrados",
+    "preco_custo": "R$ 35,01",
+    "peso_kg": 3.45,
+    "perecivel": false,
+    "fornecedor": {
+      "nome": "NaturSucos ME",
+      "cnpj": "11.222.333/0001-44",
+      "estado": "BA"
+    }
+  },
+  {
+    "id_produto": 1014,
+    "nome_produto": "Banana Chips",
+    "categoria": "Frutas Desidratadas",
+    "preco_custo": "R$ 20,90",
+    "peso_kg": 1.44,
+    "perecivel": false,
+    "fornecedor": {
+      "nome": "SecaFrut Indústria",
+      "cnpj": "55.666.777/0001-88",
+      "estado": "PI"
+    }
+  },
+  {
+    "id_produto": 1015,
+    "nome_produto": "Manga Desidratada",
+    "categoria": "Frutas Desidratadas",
+    "preco_custo": "R$ 44,87",
+    "peso_kg": 2.19,
+    "perecivel": false,
+    "fornecedor": {
+      "nome": "SecaFrut Indústria",
+      "cnpj": "55.666.777/0001-88",
+      "estado": "PI"
+    }
+  },
+  {
+    "id_produto": 1003,
+    "nome_produto": "Cajá ",
+    "categoria": "Frutas in Natura",
+    "preco_custo": "R$ 8,50",
+    "peso_kg": 1.2,
+    "perecivel": true,
+    "fornecedor": {
+      "nome": "AgriFruit Ltda",
+      "cnpj": "12.345.678/0001-90",
+      "estado": "CE"
+    }
+  }
+]
