@@ -1,0 +1,233 @@
+id_transacao,data_venda,id_loja,id_produto,quantidade,preco_unitario,desconto_percentual,vendedor,forma_pagamento,nome_loja,cidade,estado,metros_quadrados,data_inauguracao,gerente,meta_faturamento_q1,meta_transacoes_q1,valor_total_venda
+7021,2025-01-13,101,1012,37,72.16,0.109,Carlos Souza,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,2378.9
+7069,2025-01-01,105,1011,59,107.24,0.11800000000000001,João Pereira,Dinheiro,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,5580.56
+7076,2025-01-22,104,1003,46,12.06,0.23600000000000002,Carlos Souza,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,423.84
+7128,2025-01-01,105,1013,24,74.47,0.075,Fernanda Costa,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,1653.23
+7035,2025-01-25,102,1008,18,73.52,0.177,Carlos Souza,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1089.13
+7093,2025-01-05,104,1006,22,104.67,0.109,Maria Lima,Dinheiro,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,2051.74
+7059,2025-01-01,101,1007,57,101.39,0.245,Fernanda Costa,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,4363.32
+7103,2025-01-04,105,1002,6,80.94,0.22699999999999998,Fernanda Costa,Cartão Débito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,375.4
+7092,2025-01-19,101,1013,41,88.31,0.16699999999999998,Ana Silva,Cartão Débito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,3016.05
+7078,2025-01-22,104,1006,8,44.43,0.147,Maria Lima,PIX,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,303.19
+7044,2025-01-22,104,1009,25,66.87,0.075,João Pereira,Boleto,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,1546.37
+7008,2025-01-14,102,1012,34,77.82,0.001,João Pereira,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,2643.23
+7120,2025-01-26,102,1008,10,101.37,0.17,Fernanda Costa,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,841.37
+7102,2025-01-19,105,1006,14,105.27,0.08199999999999999,Ana Silva,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,1352.93
+7068,2025-01-04,102,1012,58,73.19,0.10300000000000001,Ana Silva,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,3807.78
+7119,2025-01-04,102,1008,42,77.83,0.055,Fernanda Costa,Boleto,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,3089.07
+7058,2025-01-03,104,1008,7,10.75,0.025,Maria Lima,Dinheiro,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,73.37
+7041,2025-01-05,105,1004,51,25.52,0.129,Fernanda Costa,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,1133.62
+7030,2025-01-25,104,1001,6,44.71,0.136,Carlos Souza,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,231.78
+7104,2025-01-09,101,1006,19,6.41,0.187,Maria Lima,Cartão Débito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,99.02
+7015,2025-01-26,102,1006,14,72.8,0.051,Fernanda Costa,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,967.22
+7006,2025-01-19,105,1007,35,118.02,0.21899999999999997,Carlos Souza,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,3226.08
+7011,2025-01-29,101,1001,32,73.95,0.127,Ana Silva,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,2065.87
+7071,2025-01-13,101,1015,50,77.15,0.12,Ana Silva,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,3394.6
+7031,2025-01-01,102,1007,47,51.31,0.135,João Pereira,Cartão Débito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,2086.01
+7048,2025-01-15,102,1013,40,29.03,0.033,Ana Silva,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1122.88
+7115,2025-01-11,104,1011,13,9.64,0.207,Maria Lima,Boleto,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,99.38
+7117,2025-01-15,104,1015,59,106.26,0.055,Ana Silva,PIX,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,5924.53
+7124,2025-01-28,105,1008,37,98.04,0.155,Carlos Souza,Dinheiro,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,3065.22
+7032,2025-01-27,102,1001,50,46.12,0.1,Ana Silva,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,2075.4
+7003,2025-01-14,105,1007,31,54.97,0.154,João Pereira,Boleto,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,1441.64
+7114,2025-01-18,102,1009,15,35.0,0.14,Ana Silva,Dinheiro,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,451.5
+7084,2025-01-20,102,1004,59,12.06,0.026000000000000002,Ana Silva,Cartão Crédito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,693.04
+7112,2025-01-13,104,1012,38,9.66,0.147,Ana Silva,Cartão Débito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,313.12
+7028,2025-01-31,102,1012,7,89.29,0.161,Carlos Souza,Dinheiro,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,524.4
+7074,2025-01-25,102,1001,10,17.56,0.067,Maria Lima,Cartão Débito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,163.83
+7056,2025-01-22,104,1007,4,16.43,0.026000000000000002,Ana Silva,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,64.01
+7090,2025-01-24,105,1012,48,63.81,0.066,Fernanda Costa,Cartão Crédito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,2860.73
+7086,2025-01-28,104,1013,20,80.45,0.06,Fernanda Costa,Cartão Débito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,1512.46
+7116,2025-01-25,104,1009,9,109.2,0.20800000000000002,João Pereira,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,778.38
+7049,2025-01-08,101,1011,27,18.89,0.207,Ana Silva,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,404.45
+7037,2025-01-04,101,1003,57,73.28,0.037000000000000005,Ana Silva,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,4022.41
+7000,2025-01-10,105,1001,50,90.74,0.055999999999999994,Carlos Souza,Dinheiro,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,4282.93
+7075,2025-01-13,101,1009,51,74.04,0.225,Maria Lima,Boleto,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,2926.43
+7009,2025-01-30,101,1005,19,80.39,0.051,Maria Lima,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,1449.51
+7002,2025-01-31,102,1009,37,37.5,0.179,João Pereira,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1139.14
+7081,2025-01-18,102,1004,12,111.84,0.05,Maria Lima,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1274.98
+7121,2025-01-22,105,1002,28,113.9,0.16399999999999998,Maria Lima,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,2666.17
+7099,2025-01-16,102,1008,36,55.04,0.16,Carlos Souza,Cartão Débito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1664.41
+7035,2025-01-25,102,1008,18,73.52,0.177,Carlos Souza,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1089.13
+7005,2025-01-18,104,1013,34,88.75,0.192,Fernanda Costa,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,2438.14
+7013,2025-01-18,104,1007,38,43.11,0.11599999999999999,Ana Silva,Dinheiro,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,1448.15
+7129,2025-01-26,101,1008,22,37.64,0.209,Ana Silva,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,655.01
+7034,2025-01-18,102,1003,34,75.11,0.201,João Pereira,Dinheiro,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,2040.44
+7088,2025-01-13,102,1010,44,95.54,0.138,João Pereira,Cartão Crédito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,3623.64
+7116,2025-01-25,104,1009,9,109.2,0.20800000000000002,João Pereira,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,778.38
+7054,2025-01-08,102,1011,52,45.5,0.10300000000000001,Carlos Souza,Cartão Crédito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,2122.3
+7108,2025-01-16,105,1010,28,119.84,0.11900000000000001,Fernanda Costa,Cartão Débito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,2956.21
+7089,2025-01-11,101,1005,31,7.59,0.08900000000000001,Carlos Souza,Boleto,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,214.35
+7073,2025-01-22,102,1005,57,26.21,0.026000000000000002,Maria Lima,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1455.13
+7016,2025-01-08,101,1004,10,28.99,0.027000000000000003,Fernanda Costa,Cartão Débito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,282.07
+7107,2025-01-25,101,1003,39,12.7,0.114,Fernanda Costa,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,438.84
+7050,2025-01-20,104,1003,4,18.82,0.18899999999999997,Carlos Souza,Cartão Débito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,61.05
+7026,2025-01-22,101,1011,41,101.67,0.040999999999999995,Fernanda Costa,Cartão Débito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,3997.56
+7064,2025-01-27,101,1005,8,31.08,0.091,Ana Silva,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,226.01
+7023,2025-01-04,105,1008,18,73.77,0.154,Ana Silva,Dinheiro,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,1123.37
+7071,2025-01-13,101,1015,50,77.15,0.12,Ana Silva,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,3394.6
+7065,2025-01-12,105,1001,54,25.64,0.17800000000000002,Ana Silva,Boleto,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,1138.11
+7024,2025-01-09,101,1015,11,63.28,0.21100000000000002,Carlos Souza,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,549.21
+7087,2025-01-08,104,1012,38,20.44,0.06,Fernanda Costa,Cartão Débito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,730.12
+7045,2025-01-25,105,1004,14,21.18,0.04,João Pereira,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,284.66
+7100,2025-01-28,101,1007,28,73.82,0.23,Carlos Souza,Boleto,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,1591.56
+7072,2025-01-30,105,1007,34,84.34,0.013999999999999999,João Pereira,Cartão Crédito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,2827.41
+7007,2025-01-23,104,1001,13,72.87,0.08900000000000001,João Pereira,PIX,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,863.0
+7042,2025-01-27,105,1006,24,18.87,0.154,Fernanda Costa,Cartão Débito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,383.14
+7051,2025-01-26,105,1005,45,54.85,0.18,Fernanda Costa,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,2023.96
+7018,2025-01-21,101,1015,43,110.94,0.142,João Pereira,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,4093.02
+7046,2025-01-26,104,1008,58,19.9,0.203,Fernanda Costa,Boleto,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,919.9
+7094,2025-01-23,102,1015,21,116.56,0.218,Maria Lima,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1914.15
+7004,2025-01-14,101,1012,29,42.16,0.084,Maria Lima,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,1119.94
+7038,2025-01-23,104,1005,48,3.78,0.17800000000000002,Carlos Souza,Cartão Débito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,149.14
+7113,2025-01-20,102,1013,29,39.7,0.096,João Pereira,Cartão Crédito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1040.78
+7063,2025-01-28,105,1008,5,46.78,0.107,Maria Lima,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,208.87
+7015,2025-01-26,102,1006,14,72.8,0.051,Fernanda Costa,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,967.22
+7082,2025-01-20,102,1014,15,67.3,0.053,João Pereira,Boleto,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,956.0
+7053,2025-01-04,102,1010,33,22.24,0.059000000000000004,Ana Silva,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,690.62
+7083,2025-01-25,104,1002,21,57.1,0.156,Maria Lima,Cartão Débito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,1012.04
+7033,2025-01-31,105,1006,16,51.53,0.21,João Pereira,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,651.34
+7020,2025-01-25,105,1010,51,54.71,0.127,Fernanda Costa,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,2435.85
+7080,2025-01-23,101,1004,5,19.78,0.049,João Pereira,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,94.05
+7127,2025-01-07,104,1013,55,115.39,0.165,Maria Lima,Cartão Débito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,5299.29
+8083,2025-02-28,104,1003,33,19.35,0.217,João Pereira,PIX,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,499.98
+8099,2025-02-14,104,1014,49,55.09,0.18100000000000002,Ana Silva,Dinheiro,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,2210.82
+8071,2025-02-03,101,1007,29,17.36,0.17,Maria Lima,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,417.86
+8098,2025-02-03,101,1015,57,44.91,0.134,Carlos Souza,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,2216.85
+8102,2025-02-23,101,1010,22,28.75,0.215,Maria Lima,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,496.51
+8003,2025-02-15,101,1011,44,60.86,0.21,Maria Lima,Cartão Débito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,2115.49
+8108,2025-02-25,104,1001,43,31.49,0.099,João Pereira,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,1220.02
+8053,2025-02-26,102,1005,52,31.74,0.052000000000000005,Maria Lima,Cartão Crédito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1564.66
+8057,2025-02-16,102,1003,13,71.31,0.10300000000000001,Fernanda Costa,Cartão Crédito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,831.55
+8076,2025-02-07,104,1009,50,31.86,0.077,João Pereira,PIX,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,1470.34
+8009,2025-02-11,102,1008,55,45.51,0.012,Fernanda Costa,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,2473.01
+8016,2025-02-08,104,1014,22,86.04,0.08,Ana Silva,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,1741.45
+8018,2025-02-28,104,1007,34,33.11,0.19699999999999998,Fernanda Costa,PIX,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,903.97
+8092,2025-02-12,102,1007,22,14.05,0.21100000000000002,João Pereira,Cartão Débito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,243.88
+8084,2025-02-16,102,1003,23,99.31,0.005,Maria Lima,Cartão Débito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,2272.71
+8012,2025-02-12,101,1011,23,117.64,0.195,Maria Lima,Cartão Débito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,2178.1
+8093,2025-02-06,104,1013,14,72.29,0.005,Maria Lima,Dinheiro,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,1007.0
+8024,2025-02-01,102,1005,56,85.39,0.183,João Pereira,Boleto,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,3906.76
+8008,2025-02-07,102,1013,24,75.78,0.115,Maria Lima,Cartão Crédito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1609.57
+8106,2025-02-09,102,1003,16,86.0,0.081,Ana Silva,Cartão Débito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1264.54
+8073,2025-02-14,102,1009,43,118.1,0.19699999999999998,Carlos Souza,Boleto,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,4077.87
+8089,2025-02-01,101,1010,1,43.71,0.214,João Pereira,Dinheiro,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,34.36
+8059,2025-02-18,105,1008,34,119.16,0.084,Ana Silva,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,3711.12
+8011,2025-02-23,102,1010,54,22.77,0.071,Ana Silva,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1142.28
+8104,2025-02-11,105,1005,45,98.37,0.032,Fernanda Costa,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,4285.0
+8026,2025-02-13,105,1007,19,57.47,0.21100000000000002,Maria Lima,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,861.53
+8041,2025-02-11,102,1008,8,109.38,0.203,Ana Silva,Dinheiro,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,697.41
+8066,2025-02-16,105,1007,5,73.88,0.11699999999999999,Fernanda Costa,Cartão Débito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,326.18
+8056,2025-02-12,102,1008,56,109.21,0.09300000000000001,Carlos Souza,Cartão Débito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,5546.99
+8064,2025-02-18,101,1007,30,106.85,0.166,Fernanda Costa,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,2673.39
+8044,2025-02-01,102,1010,37,29.42,0.031,Maria Lima,Boleto,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1054.8
+8097,2025-02-22,105,1008,1,43.92,0.035,João Pereira,Cartão Débito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,42.38
+8030,2025-02-14,102,1008,27,9.97,0.153,João Pereira,Cartão Débito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,228.0
+8051,2025-02-02,101,1012,50,90.57,0.011000000000000001,Carlos Souza,Dinheiro,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,4478.69
+8044,2025-02-01,102,1010,37,29.42,0.031,Maria Lima,Boleto,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1054.8
+8020,2025-02-07,102,1005,19,9.18,0.033,Maria Lima,Cartão Débito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,168.66
+8103,2025-02-01,104,1009,22,19.32,0.162,Carlos Souza,Boleto,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,356.18
+8078,2025-02-13,101,1011,58,101.8,0.073,Maria Lima,Boleto,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,5473.38
+8017,2025-02-07,101,1008,47,17.73,0.099,João Pereira,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,750.81
+8028,2025-02-14,105,1015,44,29.26,0.10400000000000001,Maria Lima,Boleto,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,1153.55
+8023,2025-02-25,101,1002,45,43.52,0.11900000000000001,Fernanda Costa,Dinheiro,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,1725.35
+8069,2025-02-04,101,1001,19,98.7,0.109,Fernanda Costa,Cartão Débito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,1670.89
+8052,2025-02-16,101,1008,5,116.72,0.113,Ana Silva,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,517.65
+8037,2025-02-20,105,1013,51,18.7,0.053,Ana Silva,Cartão Crédito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,903.15
+8114,2025-02-19,105,1001,22,44.55,0.013000000000000001,Fernanda Costa,Cartão Crédito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,967.36
+8031,2025-02-09,101,1012,36,111.24,0.018000000000000002,Fernanda Costa,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,3932.56
+8021,2025-02-05,104,1008,45,62.2,0.064,João Pereira,Dinheiro,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,2619.86
+8014,2025-02-14,101,1012,56,46.79,0.106,João Pereira,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,2342.49
+8033,2025-02-09,105,1012,38,115.22,0.23800000000000002,Maria Lima,Dinheiro,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,3336.31
+8094,2025-02-07,102,1012,46,108.01,0.027999999999999997,Maria Lima,Dinheiro,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,4829.34
+8061,2025-02-11,105,1012,2,56.29,0.171,Fernanda Costa,Dinheiro,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,93.33
+8060,2025-02-09,102,1014,18,82.49,0.139,Carlos Souza,Cartão Crédito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1278.43
+8110,2025-02-25,105,1013,6,48.06,0.233,João Pereira,Cartão Débito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,221.17
+8096,2025-02-06,101,1013,37,95.32,0.09,Fernanda Costa,Boleto,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,3209.42
+8055,2025-02-05,104,1012,26,75.8,0.165,Fernanda Costa,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,1645.62
+8035,2025-02-17,104,1008,4,50.39,0.237,João Pereira,PIX,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,153.79
+8095,2025-02-20,102,1009,1,59.59,0.145,João Pereira,Boleto,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,50.95
+8107,2025-02-25,101,1011,24,117.26,0.132,Ana Silva,Boleto,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,2442.76
+8027,2025-02-18,104,1004,17,74.95,0.19699999999999998,Fernanda Costa,Dinheiro,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,1023.14
+8090,2025-02-19,105,1013,42,47.48,0.127,Fernanda Costa,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,1740.9
+8080,2025-02-01,105,1003,57,6.22,0.235,Ana Silva,Boleto,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,271.22
+8075,2025-02-10,105,1003,51,11.75,0.034,Maria Lima,Cartão Débito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,578.88
+8038,2025-02-11,101,1015,42,40.76,0.24600000000000002,João Pereira,Dinheiro,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,1290.79
+9039,2025-03-02,101,1007,6,18.78,0.136,Ana Silva,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,97.36
+9113,2025-03-26,104,1013,10,57.26,0.04,Carlos Souza,Boleto,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,549.7
+9048,2025-03-27,101,1002,54,80.37,0.052000000000000005,Carlos Souza,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,4114.3
+9134,2025-03-19,105,1015,50,77.28,0.17300000000000001,Fernanda Costa,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,3195.53
+9117,2025-03-05,101,1004,27,77.08,0.078,Fernanda Costa,Cartão Débito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,1918.83
+9024,2025-03-27,104,1011,3,47.75,0.086,Maria Lima,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,130.93
+9129,2025-03-04,101,1008,26,56.85,0.027000000000000003,João Pereira,Dinheiro,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,1438.19
+9110,2025-03-10,102,1006,43,115.92,0.08199999999999999,João Pereira,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,4575.83
+9015,2025-03-30,105,1010,44,114.98,0.07400000000000001,João Pereira,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,4684.75
+9086,2025-03-26,104,1012,58,91.31,0.244,Ana Silva,Boleto,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,4003.76
+9050,2025-03-10,102,1001,19,90.44,0.013000000000000001,Fernanda Costa,Cartão Débito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1696.02
+9001,2025-03-18,104,1003,19,32.53,0.018000000000000002,João Pereira,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,606.94
+9043,2025-03-28,101,1001,12,78.77,0.099,Carlos Souza,Dinheiro,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,851.66
+9055,2025-03-03,102,1007,45,35.11,0.06,Fernanda Costa,Boleto,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1485.15
+9057,2025-03-04,105,1014,48,60.61,0.131,Carlos Souza,Boleto,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,2528.16
+9071,2025-03-29,101,1008,48,100.48,0.215,Carlos Souza,Boleto,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,3786.09
+9045,2025-03-03,101,1015,51,69.06,0.244,Fernanda Costa,Dinheiro,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,2662.68
+9011,2025-03-03,104,1010,13,36.72,0.032,Carlos Souza,Dinheiro,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,462.08
+9095,2025-03-10,105,1005,7,24.72,0.068,Fernanda Costa,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,161.27
+9028,2025-03-18,105,1012,31,101.68,0.07200000000000001,Maria Lima,Boleto,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,2925.13
+9031,2025-03-22,105,1009,13,112.68,0.031,Maria Lima,Boleto,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,1419.43
+9127,2025-03-07,102,1005,41,13.97,0.022000000000000002,Maria Lima,Dinheiro,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,560.17
+9040,2025-03-17,104,1002,57,79.03,0.177,Ana Silva,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,3707.38
+9047,2025-03-15,105,1008,19,98.25,0.243,Fernanda Costa,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,1413.13
+9121,2025-03-09,101,1012,47,47.44,0.207,Fernanda Costa,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,1768.14
+9002,2025-03-01,104,1008,37,104.28,0.006,Carlos Souza,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,3835.21
+9084,2025-03-07,105,1001,37,22.24,0.23399999999999999,Fernanda Costa,Boleto,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,630.33
+9004,2025-03-08,105,1007,41,58.53,0.18600000000000003,Carlos Souza,Cartão Débito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,1953.38
+9002,2025-03-01,104,1008,37,104.28,0.006,Carlos Souza,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,3835.21
+9099,2025-03-14,102,1011,54,113.42,0.221,João Pereira,Boleto,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,4771.13
+9092,2025-03-01,101,1003,14,86.63,0.085,Maria Lima,Dinheiro,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,1109.73
+9114,2025-03-13,102,1004,14,85.38,0.16,Carlos Souza,Cartão Crédito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1004.07
+9023,2025-03-14,101,1005,41,37.35,0.214,Carlos Souza,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,1203.64
+9049,2025-03-08,101,1014,56,113.19,0.125,Ana Silva,Cartão Crédito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,5546.31
+9098,2025-03-04,101,1004,57,90.88,0.025,Fernanda Costa,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,5050.66
+9103,2025-03-09,104,1011,38,109.73,0.078,Carlos Souza,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,3844.5
+9005,2025-03-20,102,1014,53,12.03,0.085,Fernanda Costa,Dinheiro,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,583.39
+9137,2025-03-15,104,1001,42,97.12,0.196,Ana Silva,Cartão Débito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,3279.55
+9053,2025-03-01,104,1015,58,9.23,0.248,Ana Silva,Cartão Débito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,402.58
+9046,2025-03-26,101,1001,59,17.27,0.14300000000000002,Maria Lima,Boleto,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,873.22
+9012,2025-03-24,102,1006,34,41.32,0.046,Maria Lima,Cartão Crédito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1340.26
+9074,2025-03-26,105,1013,33,98.25,0.07,Ana Silva,Dinheiro,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,3015.29
+9009,2025-03-24,104,1007,40,103.68,0.08,Fernanda Costa,PIX,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,3815.42
+9115,2025-03-18,104,1006,35,16.38,0.008,Fernanda Costa,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,568.71
+9077,2025-03-22,104,1005,18,35.83,0.171,Fernanda Costa,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,534.66
+9018,2025-03-14,105,1005,42,87.68,0.013000000000000001,Ana Silva,Boleto,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,3634.69
+9042,2025-03-26,101,1004,36,104.82,0.042,Maria Lima,Boleto,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,3615.03
+9020,2025-03-25,101,1005,52,31.32,0.17800000000000002,Ana Silva,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,1338.74
+9013,2025-03-03,102,1007,50,98.36,0.129,Carlos Souza,Boleto,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,4283.58
+9027,2025-03-26,102,1004,56,18.84,0.016,Maria Lima,PIX,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1038.16
+9125,2025-03-15,105,1014,18,72.69,0.102,João Pereira,Cartão Débito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,1174.96
+9014,2025-03-03,104,1002,4,109.45,0.017,Ana Silva,Boleto,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,430.36
+9107,2025-03-09,102,1001,49,100.24,0.09300000000000001,Fernanda Costa,Cartão Crédito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,4454.97
+9097,2025-03-12,102,1011,37,67.4,0.08800000000000001,Ana Silva,Cartão Débito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,2274.35
+9006,2025-03-10,101,1001,40,63.84,0.083,Ana Silva,Boleto,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,2341.65
+9102,2025-03-31,101,1012,38,32.16,0.244,Fernanda Costa,PIX,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,923.89
+9111,2025-03-21,104,1014,46,75.08,0.249,Ana Silva,Cartão Débito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,2593.71
+9067,2025-03-25,104,1010,28,51.2,0.139,Maria Lima,Cartão Débito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,1234.33
+9066,2025-03-30,105,1007,34,83.35,0.18600000000000003,Ana Silva,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,2306.79
+9019,2025-03-10,105,1014,3,52.58,0.22399999999999998,Maria Lima,Cartão Crédito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,122.41
+9068,2025-03-23,101,1009,9,22.52,0.129,Maria Lima,Cartão Débito,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,176.53
+9128,2025-03-02,105,1003,47,118.74,0.136,Carlos Souza,Boleto,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,4821.79
+9126,2025-03-05,105,1004,36,110.56,0.166,Carlos Souza,Cartão Crédito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,3319.45
+9063,2025-03-29,104,1004,35,64.19,0.017,Carlos Souza,PIX,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,2208.46
+9079,2025-03-19,102,1013,42,79.9,0.111,Maria Lima,Boleto,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,2983.31
+9022,2025-03-31,102,1009,45,26.24,0.13699999999999998,Fernanda Costa,Dinheiro,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1019.03
+9119,2025-03-06,105,1008,33,108.93,0.047,Fernanda Costa,Cartão Crédito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,3425.74
+9076,2025-03-15,105,1014,2,64.69,0.22399999999999998,João Pereira,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,100.4
+9103,2025-03-09,104,1011,38,109.73,0.078,Carlos Souza,Cartão Crédito,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,3844.5
+9085,2025-03-31,102,1012,42,34.27,0.037000000000000005,Ana Silva,Cartão Débito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,1386.08
+9008,2025-03-14,105,1008,12,40.02,0.205,Fernanda Costa,Cartão Crédito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,381.79
+9100,2025-03-10,101,1006,42,85.58,0.07400000000000001,Fernanda Costa,Boleto,Frutally Fortaleza Centro,Fortaleza,CE,320.0,2019-03-12,Ricardo Mendes,250000.0,800,3328.38
+9059,2025-03-02,105,1011,37,102.77,0.138,Carlos Souza,Cartão Débito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,3277.75
+9088,2025-03-09,102,1004,31,29.28,0.21600000000000003,Ana Silva,Cartão Crédito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,711.62
+9035,2025-03-20,104,1012,12,13.84,0.22399999999999998,Ana Silva,PIX,Frutally Teresina Centro,Teresina,PI,195.0,2022-01-10,Luciana Rocha,120000.0,450,128.88
+9078,2025-03-19,102,1007,11,37.45,0.135,Maria Lima,Cartão Débito,Frutally Recife Boa Viagem,Recife,PE,280.0,2020-07-15,Patrícia Alves,180000.0,600,356.34
+9104,2025-03-29,105,1013,25,21.49,0.184,Maria Lima,PIX,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,438.4
+9089,2025-03-19,105,1006,55,54.4,0.162,Maria Lima,Cartão Crédito,Frutally São Luís,São Luís,MA,410.0,2023-08-15,Thiago Borges,200000.0,700,2507.3
